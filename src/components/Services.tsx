@@ -5,7 +5,7 @@ const services = [
     title: "Landing Pages",
     description:
       "Páginas de alta conversão otimizadas para performance e SEO. Design moderno e responsivo que converte visitantes em clientes.",
-    bg: "/red.png",
+    bg: "/backgrounds/red.png",
     iconImg: "/icons/home.png",
     details: ["SEO Friendly", "Responsivo", "Alta Conversão"],
   },
@@ -13,7 +13,7 @@ const services = [
     title: "Performance",
     description:
       "Código otimizado e práticas modernas garantem carregamento rápido e experiência fluida em todos os dispositivos.",
-    bg: "/blue.png",
+    bg: "/backgrounds/blue.png",
     iconImg: "/icons/performance.png",
     details: ["Carregamento Rápido", "Práticas Modernas", "Compatível Mobile"],
   },
@@ -21,7 +21,7 @@ const services = [
     title: "Design Minimalista",
     description:
       "Interfaces limpas e focadas que destacam seu conteúdo. Menos é mais quando se trata de conversão.",
-    bg: "/yellow.png",
+    bg: "/backgrounds/yellow.png",
     iconImg: "/icons/paint.png",
     details: ["Limpo e Intuitivo", "Foco no Usuário", "Estético"],
   },

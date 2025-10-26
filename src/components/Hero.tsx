@@ -4,7 +4,7 @@ export function Hero() {
             {/* Imagem de fundo no lado direito */}
             <div className="absolute inset-0">
                 <img
-                    src="/newbanner.png"
+                    src="/backgrounds/newbanner.png"
                     alt="Imagem ilustrativa"
                     className="absolute right-0 top-0 h-full w-auto max-w-none object-cover"
                 />
